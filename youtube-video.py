@@ -1,4 +1,5 @@
 import streamlit as st
+import pytube
 from pytube import YouTube
 import os
 from googletrans import Translator
